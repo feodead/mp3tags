@@ -5,7 +5,7 @@
 ## Установка
 
 ```bash
-pip install MelodyMaster mutagen
+pip install MelodyMaster mutagen musicbrainzngs
 ```
 
 **Требование:** Python 3.8+
